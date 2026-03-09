@@ -94,7 +94,7 @@ Based on the insights, the following recommendations were suggested:
 
 Example:
 
-![Blinkit Dashboard](images/dashboard_preview.png)
+[![Blinkit Dashboard](images/dashboard_preview.png)](https://github.com/budhiramgouda45-prog/Blinkit-Sales-Analysis./blob/main/Dashboard%20image.png)
 
 ---
 
