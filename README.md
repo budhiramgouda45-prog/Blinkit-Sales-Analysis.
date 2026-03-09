@@ -90,11 +90,8 @@ Based on the insights, the following recommendations were suggested:
 
 ##  Dashboard Preview
 
-(Add a screenshot of your Power BI dashboard here)
+<img width="1078" height="481" alt="Dashboard image" src="https://github.com/user-attachments/assets/6fe2bb4f-ab19-4805-846a-8c4b9f33ba7f" />
 
-Example:
-
-[![Blinkit Dashboard](images/dashboard_preview.png)](https://github.com/budhiramgouda45-prog/Blinkit-Sales-Analysis./blob/main/Dashboard%20image.png)
 
 ---
 
